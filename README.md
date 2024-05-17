@@ -1,1 +1,1 @@
-# site-pessoal
+# Me chamo Guilherme Gomes de Amorim Vieira, sou estudante do Colégio Estadual Marechal Castelo Branco e trabalho como estagiário da prefeitura municipal. Estou construíndo esse site pessoal na disciplina de Programação com o objetivo de dar dicas de como como conseguir um bom emprego através da boa oratória, do reconhecimento de suas habilidades e dificuldades e também como saber trabalhar a liderança e outros aspectos importantes para conseguir um bom emprego.
