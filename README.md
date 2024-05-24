@@ -1,1 +1,1 @@
-# Me chamo Guilherme Gomes de Amorim Vieira, sou estudante do Colégio Estadual Marechal Castelo Branco. Estou construíndo esse site de notícias com o objetivo de trazer todas as informaçãos de Primeiro de Maio e região. 
+# Me chamo Guilherme Gomes de Amorim Vieira, sou estudante do Colégio Estadual Marechal Castelo Branco. Estou construíndo esse site de notícias com o objetivo de trazer todas as informações de Primeiro de Maio e região. 
