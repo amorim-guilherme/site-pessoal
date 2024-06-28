@@ -4,7 +4,7 @@ header {
     }
     .cabecalho {
         background-color: #383D58;
-        color: rgb(161, 86, 86);
+        color: rgb(255, 255, 255);
         display: flex;
         justify-content: space-around;
     }
